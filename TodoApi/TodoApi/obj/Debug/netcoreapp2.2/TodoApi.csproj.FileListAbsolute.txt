@@ -12,3 +12,17 @@ C:\SAMIT\My-test_project\ASPNETCORE\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\Todo
 C:\SAMIT\My-test_project\ASPNETCORE\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
 C:\SAMIT\My-test_project\ASPNETCORE\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
 C:\SAMIT\My-test_project\ASPNETCORE\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
+C:\SAMIT\New folder\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\SAMIT\New folder\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\SAMIT\New folder\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\SAMIT\New folder\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\SAMIT\New folder\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\SAMIT\New folder\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb

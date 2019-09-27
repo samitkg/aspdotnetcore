@@ -12951,11 +12951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAMIT\\My-test_project\\ASPNETCORE\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\SAMIT\\New folder\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\SAMIT\\My-test_project\\ASPNETCORE\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\SAMIT\\New folder\\TodoApi\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\SamitGhosh\\.nuget\\packages\\",
-      "outputPath": "C:\\SAMIT\\My-test_project\\ASPNETCORE\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\SAMIT\\New folder\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
